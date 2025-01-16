@@ -19,7 +19,7 @@ dataset provided for big sales prediction using Random Forest Regressor. The dat
 comprised 12 variables, each offering unique insights into the retail domain. Here's a
 breakdown of the variables:
 ### Variables:
- Item_Identifier: This variable represents the unique identifier for each item in the
+- Item_Identifier: This variable represents the unique identifier for each item in the
 dataset. It serves as a reference point for individual items and is crucial for tracking and
 analysis.
 - Item_Weight: The item weight provides information about the weight of each item,
