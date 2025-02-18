@@ -1,4 +1,4 @@
-# BIG SALES PREDICTION USING RANDOM FROEST REGRESSOR
+# BIG SALES PREDICTION USING RANDOM FOREST REGRESSOR
 ## A Brief on my Project
 Sales prediction is a critical aspect of the retail industry, serving as a foundation for effective
 inventory management, revenue forecasting, and strategic decision-making. Accurate sales
